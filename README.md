@@ -3,11 +3,11 @@ Author: Jawad Alotaibi
 Course: C++ Level 1
 Instructor: Dr. Mohammed Abo-Hadhoud
 
-📌 Overview
+📌 Overview:
 This repository contains all my work from the first level of C++ programming, including assignments, exercises, and projects.
 The course covered essential programming concepts and best practices, laying a strong foundation for software development in C++.
 
-📝 Topics Covered
+📝 Topics Covered: 
 ✔️ Variables & Data Types
 ✔️ User Input & Output
 ✔️ Conditional Statements & Loops
@@ -21,6 +21,7 @@ The course covered essential programming concepts and best practices, laying a s
 
 
 💡 Learning Outcomes
+
 🔹 Strong understanding of C++ fundamentals
 🔹 Improved problem-solving and logical thinking skills
 🔹 Ability to write clean, efficient, and structured C++ code
@@ -32,6 +33,7 @@ Clone or download the repository to run the code on your system:
 bash
 git clone https://github.com/jawad-511/introduction_to_programming
 Experiment with the examples and modify them for better understanding.
+
 
 🔗 Connect with Me
 📧 Email: jawadk.alotaibi@gmail.com
